@@ -1,0 +1,40 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 50px 300px;
+}
+
+
+button {
+
+    padding: 15px 50px;
+    margin: 8px 0;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    border: none;
+}
+
+h1{
+
+    margin: 20px;
+}
+input{
+
+    width: 15%;
+}
+    
+    
